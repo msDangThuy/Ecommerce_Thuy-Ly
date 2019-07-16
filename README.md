@@ -1,2 +1,1 @@
-# Ecommerce_Thuy-Ly
-Project team
+# Maven_TestNG_SeleniumBasicFramework_Guru99
